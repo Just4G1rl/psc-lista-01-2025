@@ -18,6 +18,10 @@ public class mediaAritimetrica {
 
     if(media >= 7){
         System.out.printf("O aluno está APROVADO");
+    }else{
+        System.out.printf("O aluno está REPROVADO");
+
     }
+
    } 
 }   
