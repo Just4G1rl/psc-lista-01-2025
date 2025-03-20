@@ -6,7 +6,7 @@ public class imprimirNumero {
         System.out.println("Digite um número: ");
         numero = scanner.nextInt();
         scanner.close();
-        System.out.println("O número digitado é: " + numero);
+        System.out.println("O número digitado foi: " + numero);
     }
     
 }
