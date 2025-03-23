@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class pacoteViagem {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int quantPessoasAlemanha, quantPessoasPortugal, quantPessoasItalia, totalPessoas;
+        int quantPessoasAlemanha, quantPessoasPortugal, quantPessoasItalia;
         double valorPassagemAlemanha, valorPassagemPortugal, valorPassagemItalia;
         double totalViagemAlemanha, totalViagemPortugal, totalViagemItalia, totalEourotrip;
 
